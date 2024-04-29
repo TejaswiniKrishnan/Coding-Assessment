@@ -8,6 +8,7 @@
           <include name="Testsetup"/>
           <include name="Testquit"/>
           <include name="Testcase3"/>
+          <include name="setup"/>
           <include name="Testcase2"/>
         </methods>
       </class> <!-- com.example.AppTest -->
